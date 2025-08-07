@@ -1,15 +1,4 @@
----
-layout: single
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
 
-Below is a selection of my recent projects.  Each entry includes a short description and the key skills/tools applied.  Click on a project title to read more about the problem, approach and results.
-
-## Projects
-
-Explore my key projects below.  Each block summarizes the problem, approach and results, highlights the skills I applied, and links to a detailed case study.
 
 <div class="project-block">
   <img src="{{ site.baseurl }}/assets/img/project-efficient-scheduling.png" alt="Efficient Scheduling System figure" style="max-width:100%; height:auto;" />
