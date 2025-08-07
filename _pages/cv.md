@@ -45,10 +45,10 @@ Applications:
 
 * **Curriculum Design:** *Introduction to Data Engineering* (FAMU‑FSU College of Engineering, Nov 2024)
 * **Guest Lectures:** 
-  * *Supply Uncertainty and Reliable Fixed‑Charge Location Problem* (ESI 5440, Oct 2024)\
-  * *Big Data Analytics with Python* (REU training, May 2024)\
-  * *Big Data Analytics and Prediction in Aviation* (EGN 4060 / EGN 5444, Apr 2024)\
-  * *Review of Supply Chain Management* (ESI 4326 / EIN 5324, Feb 2024)\
+  * *Supply Uncertainty and Reliable Fixed‑Charge Location Problem* (ESI 5440, Oct 2024)
+  * *Big Data Analytics with Python* (REU training, May 2024)
+  * *Big Data Analytics and Prediction in Aviation* (EGN 4060 / EGN 5444, Apr 2024)
+  * *Review of Supply Chain Management* (ESI 4326 / EIN 5324, Feb 2024)
   * *Flight Baggage Prediction with Machine Learning* (EGN 4060 / EGN 5444, Apr 2023)
 
 <h2>Publications</h2>
