@@ -12,7 +12,7 @@ site_theme               : "default"
 # title                    : "Shijie Chen, Ph.D."
 #title_separator          : "-"
 #name                     : &name "Shijie Chen, Ph.D."
-description              : &description "Operations research specialist with expertise in optimization and machine learning for transit and airline applications; seeking opportunities to drive impactful data‑driven decisions."
+# description              : &description "Operations research specialist with expertise in optimization and machine learning for transit and airline applications; seeking opportunities to drive impactful data‑driven decisions."
 
 # Keywords used for SEO. These describe the core competencies and areas of expertise relevant for recruiters and search engines.
 keywords                 : "operations research, optimization, machine learning, transit analytics, paratransit, scheduling, routing, GAMS, Python, SQL"
