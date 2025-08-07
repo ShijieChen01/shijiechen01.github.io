@@ -5,9 +5,8 @@ permalink: /projects/multi-mode-optimization/
 author_profile: true
 ---
 
-<p><img src="{{ site.baseurl }}/assets/img/project-multi-mode.png" alt="Multi‑mode optimization illustration" style="max-width:100%; height:auto;" /></p>
 
-**Role:** Optimization engineer and co‑author (IT Curves)
+**Role:** Lead developer (in collaboration with IT Curves)
 
 ### Background
 
@@ -24,3 +23,5 @@ In production use, the multi‑mode optimization delivered 13 % cost savings an
 ### Get the Paper & Code
 
 This project builds upon the research *Integrating Dial‑a‑Ride with Transportation Network Companies for Cost Efficiency*.  Download the paper [here]({{ site.baseurl }}/files/integrating-dial-a-ride.pdf).  The optimization code will be published as open source in a forthcoming release.
+
+<p><img src="{{ site.baseurl }}/assets/img/project-multi-mode.png" alt="Multi‑mode optimization illustration" style="max-width:100%; height:auto;" /></p>
