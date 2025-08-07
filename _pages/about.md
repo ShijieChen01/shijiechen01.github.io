@@ -53,7 +53,7 @@
 </span>
 
 
-<br/>
+#<br/>
 
 # <a href="{{ site.baseurl }}/files/Resume.pdf" class="btn btn--primary">Download Résumé</a>
 # &nbsp;
