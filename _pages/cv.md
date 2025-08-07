@@ -35,6 +35,9 @@ Applications:
 <h2>Honors &amp; Awards</h2>
 
 * **American Public Transportation Foundation Scholarship**, October 2024
+* **Danfoss Scholarship**, February 2024
+* **American Public Transportation Foundation Scholarship**, October 2023
+
 
 <h2>Teaching Experience</h2>
 
