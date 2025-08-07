@@ -1,4 +1,9 @@
-
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
 <div class="project-block">
   <h3><a href="{{ site.baseurl }}/projects/efficient-scheduling">Efficient Scheduling System for Paratransit</a></h3>
