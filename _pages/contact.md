@@ -3,7 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
-show_map: true
+[//]: # show_map: true
 ---
 
 I welcome opportunities to discuss new projects, collaborations or speaking engagements. Feel free to reach out via email.
