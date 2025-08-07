@@ -9,15 +9,15 @@ author_profile: true
 
 <h2>Education</h2>
 
-* **Ph.D. in Industrial and Manufacturing Engineering**, Florida State University, Tallahassee, FL &nbsp;\
-  * 01/2021 – 12/2024 (GPA 4.0)*
+* **Ph.D. in Industrial and Manufacturing Engineering**, Florida State University, Tallahassee, FL &nbsp;
+  * *01/2021 – 12/2024 (GPA 4.0)*
   * Dissertation: *Coordinated Decision‑Making for Operational and Organizational Innovations in ADA Paratransit* (Advisor: Yanshuo Sun, Ph.D.)
   * Coursework: Integer Programming, Applied Optimization, Numerical Optimization, Big Data Analytics, Intro to Machine Learning, Modeling \& Analysis of Systems
 
 
 <h2>Academic Appointments</h2>
 
-* **Postdoctoral Researcher**, Department of Industrial and Manufacturing Engineering, FAMU‑FSU College of Engineering, Florida State University, Tallahassee, FL &nbsp;\
+* **Postdoctoral Researcher**, Department of Industrial and Manufacturing Engineering, FAMU‑FSU College of Engineering, Florida State University, Tallahassee, FL &nbsp;
   *12/2024 – present* (Advisor: Yanshuo Sun, Ph.D.)
 
 
