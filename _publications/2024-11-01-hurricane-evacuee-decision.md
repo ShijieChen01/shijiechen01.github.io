@@ -1,0 +1,13 @@
+---
+title: "Data‑Driven Modeling of Hurricane Evacuee’s Individual Decision‑Making for Enhanced Hurricane Evacuation Planning"
+collection: publications
+category: manuscripts
+permalink: /publication/hurricane-evacuee-decision
+date: 2024-11-01
+venue: "Natural Hazards Review"
+paperurl: "/files/hurricane-evacuee-decision.pdf"
+excerpt: 'Bridges the gap between theory‑based evacuation models and data‑driven approaches by using survey data from Florida’s coastal metropolitan regions to model hurricane evacuation decisions. Three supervised learning algorithms (multinomial logistic regression, random forest and support vector classifier) are trained to predict whether households will evacuate and what type of destination they will choose【654146766297147†L39-L59】.  Findings show that perceptions of hurricane risk are the primary driver of evacuation decisions, COVID‑19 risk influences destination choice but not the decision itself, and random forests provide strong predictive performance【654146766297147†L49-L59】.'
+citation: 'Chen, S., Sun, Y., Zhao, T., Jia, M., & Tang, T. (2024). "Data‑Driven Modeling of Hurricane Evacuee’s Individual Decision‑Making for Enhanced Hurricane Evacuation Planning: Florida Case Study in the COVID‑19 Pandemic." <i>Natural Hazards Review</i>, 25(4), 04024032. DOI:10.1061/NHREFO.NHENG‑1976.'
+---
+
+Individual evacuation decision making has traditionally been studied using theory‑based frameworks such as random utility models. This paper introduces a data‑driven framework that leverages survey responses from households in Jacksonville and Tampa during the 2020 Atlantic hurricane season to predict whether households comply with evacuation orders and where they choose to relocate. After cleaning the data, the authors train three supervised learning algorithms—multinomial logistic regression, random forest and support vector classifier—to predict evacuation decisions under hypothetical hurricane threats.  The study finds that perceived hurricane risk is the dominant factor influencing evacuation behaviour, while concerns about COVID‑19 mainly affect the choice of evacuation destination【654146766297147†L39-L59】.  Among the algorithms, random forest offers particularly strong predictive performance【654146766297147†L49-L59】.  A conceptual optimization model is proposed to integrate these predictive insights into planning frameworks that improve compliance rates during evacuations.
