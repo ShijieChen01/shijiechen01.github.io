@@ -1,6 +1,10 @@
+---
+permalink: /
+title: "Profile"
+layout: single
+author_profile: true
+---
 
-
-## Profile
 
 - **Background & Education**  
   Ph.D. in Industrial Engineering, Florida State University; Operations research specialist with 6+ years’ experience, deploying advanced analytics and optimization in transportation and logistics.
