@@ -34,7 +34,7 @@ author_profile: true
   - Presented findings at INFORMS and TRB; authored 10+ peer-reviewed publications on transit optimization and machine learning.
 
 - **Career Objectives**  
-  Seeking a challenging role, such as **Optimization Engineer**, **Transportation Analytics Consultant**, **Operations Research Lead**, or **Data Scientist**, where I can leverage my blend of academic rigor and industry impact to drive measurable efficiencies and strategic insights in transportation and logistics.  
+  Seeking a challenging role, such as **Optimization Engineer**, **Transportation Analytics Consultant**, **Operations Research Lead**, **Data/Research/Applied Scientist**, or **Machine Learning Scientist**, where I can leverage my blend of academic rigor and industry impact to drive measurable efficiencies and strategic insights in transportation and logistics.  
 
 
 ### Contact
