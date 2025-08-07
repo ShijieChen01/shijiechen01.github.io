@@ -12,10 +12,12 @@ author_profile: true
 ### Background
 
 ADA paratransit services provide door‑to‑door transportation for people with disabilities, but delivering those rides efficiently is challenging.  Legacy scheduling systems treat vehicles as homogeneous and operate on fixed timetables.  As a result, costs per trip are high and many seats go unused, while riders face long wait times.
+<p><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Map_service.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
 
 ### Our Solution
 
 Working with IT Curves and transit agencies, I led the design of a **nested‑decomposition algorithm** that breaks the large scheduling problem into manageable subproblems.  A column‑generation engine creates candidate vehicle itineraries, and a temporal decomposition layer orchestrates conventional paratransit vans, accessible taxis and ride‑hailing vehicles.  We implemented the algorithm in Python and GAMS, packaged it as a microservice API and integrated it into the existing dispatch platform.
+<p><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Rolling Horizon Framework.png" alt="Nested decomposition algorithm illustration" style="max-width:50%; height:auto;" /><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Re-optimization2.png" alt="Nested decomposition algorithm illustration" style="max-width:50%; height:auto;" /></p>
 
 ### Impact
 
