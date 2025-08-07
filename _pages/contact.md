@@ -10,3 +10,5 @@ I welcome opportunities to discuss new projects, collaborations or speaking enga
 - **Email:** [invincible.schen@gmail.com](mailto:invincible.schen@gmail.com)
 
 You can also connect with me on professional networks such as LinkedIn.
+
+{% include visitor-map.html %}
