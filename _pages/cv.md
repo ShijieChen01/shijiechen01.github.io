@@ -48,7 +48,7 @@ Applications:
 
 <h2>Publications</h2>
 
-<p>The publications listed on this site are automatically rendered from the files in the <code>_publications</code> collection. Please see the <a href="{{ site.baseurl }}/publications/">Publications page</a> for details.</p>
+<p> Please see the <a href="{{ site.baseurl }}/publications/">Publications page</a> for details.</p>
 
 <h2>Conference Papers</h2>
 
