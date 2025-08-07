@@ -44,10 +44,3 @@
   &nbsp;&nbsp;
   [<i class="ai ai-google-scholar-square"></i> Google Scholar](https://scholar.google.com/citations?user=zJ7JKrQAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"}
 </span>
-
-
-//<br/>
-
-// <a href="{{ site.baseurl }}/files/Resume.pdf" class="btn btn--primary">Download Résumé</a>
-// &nbsp;
-// <a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--inverse">Download Full CV</a>
