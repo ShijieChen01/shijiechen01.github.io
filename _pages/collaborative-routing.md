@@ -11,6 +11,7 @@ author_profile: true
 ### Background
 
 Paratransit services are often provided by multiple independent operators within the same region.  Because each operator manages its own fleet and bookings, some vehicles run empty while others are overloaded, resulting in wasted miles and higher costs.
+<p><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Map_service.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
 
 ### Our Solution
 
@@ -22,6 +23,5 @@ Pilot experiments showed that participating operators could increase revenue by 
 
 ### Get the Paper & Code
 
-Download the preprint [here]({{ site.baseurl }}/files/integrating-dial-a-ride.pdf).  A production‑ready version of the platform and open‑source code are under development.
+A production‑ready version of the platform and open‑source code are under development.
 
-<p><img src="{{ site.baseurl }}/assets/img/project-collaborative-routing.png" alt="Collaborative routing illustration" style="max-width:100%; height:auto;" /></p>
