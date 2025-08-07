@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**Role:** Lead developer in collaboration with IT Curves
+**Role:** Lead algorithm designer and developer (in collaboration with IT Curves)
 
 ### Background
 
