@@ -17,6 +17,9 @@ Paratransit services are often provided by multiple independent operators within
 
 I designed a **demand‑exchange platform** that allows operators to share trip requests and optimize routes collaboratively.  The core engine is a mixed‑integer program that generates exchange bundles via column generation and valid inequalities.  The platform bundles compatible requests and reallocates them across fleets to maximize overall utilization.  We built the prototype in GAMS and Python and created a user interface for dispatchers to review suggested exchanges.
 
+<p><img src="{{ site.baseurl }}/assets/img/Collaborative_routin_Request exchange mechanism v8.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
+
+
 ### Impact
 
 Pilot experiments showed that participating operators could increase revenue by 8 % and reduce empty‑leg mileage by 12 %.  The collaborative routing concept demonstrates how optimization and coordination mechanisms can unlock value in fragmented mobility markets.
