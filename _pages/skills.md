@@ -31,9 +31,7 @@ I enjoy combining mathematical optimization with modern software tools. Below is
 #### Software Engineering & Tools
 
 * **Git**, **GitHub** – version control and collaborative development
-* **Docker**, **Linux** – containerization and deployment on cloud platforms
-* **AWS** (EC2, S3) – cloud computing and storage
-* **PostgreSQL** & **SQLite** – database design and management
+* **PostgreSQL** & **MySQL** – database design and management
 
 #### Business & Soft Skills
 
