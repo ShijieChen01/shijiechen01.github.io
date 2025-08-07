@@ -19,7 +19,7 @@ Working with IT Curves and transit agencies, I led the design of a **nested‑d
 
 ### Impact
 
-The MetroAccess pilot in Washington, DC demonstrated dramatic improvements: annual operating costs dropped by approximately 15 % (~\$4 million savings), on‑time performance improved and riders reported higher satisfaction【731632899040982†L88-L104】.  The algorithm has since been commercialized and is being adopted by other transit agencies, showcasing how advanced optimization can deliver tangible value to industry.
+The MetroAccess pilot in Washington, DC demonstrated dramatic improvements: annual operating costs dropped by approximately 15 % (~\$4 million savings), on‑time performance improved and riders reported higher satisfaction.  The algorithm has since been commercialized and is being adopted by other transit agencies, showcasing how advanced optimization can deliver tangible value to industry.
 
 ### Get the Paper & Code
 
