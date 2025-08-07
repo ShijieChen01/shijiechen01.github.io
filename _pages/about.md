@@ -21,7 +21,7 @@ author_profile: true
   - **Data & Geospatial:** GTFS, GeoPandas  
   - **Software Engineering:** API design, Git
 
-- **Hands-On Experience & Impact**  
+- **Hands-On Experience & Industrial Impact**  
   - **$4 M+ annual operating savings (15 % cost reduction & 10 % on-time performance gain):** Led the design and deployment of a nested-decomposition GAMS scheduling engine with dynamic dispatch API, integrating taxis, ride-hailing, and traditional vehicles to drive measurable cost and service improvements.
   - **Enhanced baggage forecasting & cost mitigation:** Collaborated with a major airline company to develop, validate and deploy flight-level checked-baggage prediction models; boost forecast accuracy and reduce mishandled-baggage costs in their operations dashboard.
   - **Scalable real-time dispatch APIs:** Architected and delivered production-ready dispatching and matching services for paratransit, supporting multi-modal vehicle fleets.
