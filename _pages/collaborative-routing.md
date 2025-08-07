@@ -11,13 +11,13 @@ author_profile: true
 ### Background
 
 Paratransit services are often provided by multiple independent operators within the same region.  Because each operator manages its own fleet and bookings, some vehicles run empty while others are overloaded, resulting in wasted miles and higher costs.
-<p><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Map_service.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
+<p  style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_Map_service.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
 
 ### Our Solution
 
 I designed a **demand‑exchange platform** that allows operators to share trip requests and optimize routes collaboratively.  The core engine is a mixed‑integer program that generates exchange bundles via column generation and valid inequalities.  The platform bundles compatible requests and reallocates them across fleets to maximize overall utilization.  We built the prototype in GAMS and Python and created a user interface for dispatchers to review suggested exchanges.
 
-<p><img src="{{ site.baseurl }}/assets/img/Collaborative_routin_Request exchange mechanism v8.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
+<p  style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/Collaborative_routin_Request exchange mechanism v8.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
 
 
 ### Impact
