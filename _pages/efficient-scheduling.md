@@ -12,7 +12,7 @@ author_profile: true
 ### Background
 
 ADA paratransit services provide door‑to‑door transportation for people with disabilities, but delivering those rides efficiently is challenging.  Legacy scheduling systems treat vehicles as homogeneous and operate on fixed timetables.  As a result, costs per trip are high and many seats go unused, while riders face long wait times.
-<p  style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_MRMS screen.png" alt="Nested decomposition algorithm illustration" style="max-width:60%; height:auto;" /></p>
+<p  style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_MRMS screen.png" alt="Nested decomposition algorithm illustration" style="max-width:100%; height:auto;" /></p>
 
 ### Our Solution
 
