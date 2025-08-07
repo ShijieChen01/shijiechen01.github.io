@@ -11,12 +11,13 @@ author_profile: true
 ### Background
 
 Paratransit riders have different sensitivities to waiting time.  Some users are willing to adjust pickup times for a discount, while others place a high value on punctuality.  Traditional scheduling treats all riders the same, leaving operators with mismatched schedules and low vehicle utilization.
-    <p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation_OverallProb2.png" alt="Schedule Negotiation figure" style="max-width:60%; height:auto;" /></p>
+<p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation_OverallProb2.png" alt="Schedule Negotiation figure" style="max-width:60%; height:auto;" /></p>
+
 
 ### Our Solution
 
 I developed a **non‑convex mixed‑integer nonlinear model** that embeds riders’ value‑of‑time and flexibility parameters directly into the dispatch problem.  To solve the large model efficiently, I created a **fix‑and‑optimize heuristic** that alternates between fixing binary variables and re‑optimizing continuous variables.  The algorithm negotiates pickup times in real time through the rider mobile app, offering incentives for flexibility.  We implemented the solution in Python, GAMS and CPLEX and integrated it into the IT Curves platform.
-    <p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation_BCPIllustration.png" alt="Schedule Negotiation figure" style="max-width:60%; height:auto;" /></p>
+<p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation_BCPIllustration.png" alt="Schedule Negotiation figure" style="max-width:60%; height:auto;" /></p>
 
 ### Impact
 
