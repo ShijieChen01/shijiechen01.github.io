@@ -5,9 +5,8 @@ permalink: /projects/collaborative-routing/
 author_profile: true
 ---
 
-<p><img src="{{ site.baseurl }}/assets/img/project-collaborative-routing.png" alt="Collaborative routing illustration" style="max-width:100%; height:auto;" /></p>
 
-**Role:** Principal investigator and platform architect (IT Curves)
+**Role:** Platform architect (in collaboration with IT Curves)
 
 ### Background
 
@@ -24,3 +23,5 @@ Pilot experiments showed that participating operators could increase revenue by 
 ### Get the Paper & Code
 
 Download the preprint [here]({{ site.baseurl }}/files/integrating-dial-a-ride.pdf).  A production‑ready version of the platform and open‑source code are under development.
+
+<p><img src="{{ site.baseurl }}/assets/img/project-collaborative-routing.png" alt="Collaborative routing illustration" style="max-width:100%; height:auto;" /></p>
