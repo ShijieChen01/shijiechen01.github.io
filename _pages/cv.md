@@ -53,17 +53,6 @@ Applications:
 
 <p> Please see the <a href="{{ site.baseurl }}/publications/">Publications page</a> for details.</p>
 
-<h2>Conference Papers</h2>
-
-<ul>
-  <li>“What Research Topics Do Federal and State Departments of Transportation Fund – An Empirical Study Based on Topic Modeling.” Presented at the Transportation Research Board 103rd Annual Meeting, Washington, DC (2024).</li>
-  <li>“An Optimization Model for Schedule Negotiations with Riders in ADA Paratransit.” Presented at the Bridging Transportation Researchers (BTR) Conference, Online (2023).</li>
-  <li>“Predicting Flight‑level Checked Baggage for a Major U.S. Airline.” Presented at the Machine Learning Expo (MLx23), FSU (2023) and at the Transportation Research Board 102nd Annual Meeting, Washington, DC (2023).</li>
-  <li>“Negotiating Travel Schedule and Mode in Mobility Services for Transportation‑Disadvantaged Individuals.” Presented at the INFORMS Annual Meeting, Indianapolis, IN (2022).</li>
-  <li>“Characterizing Transportation Research Funding Portfolios of Federal and State Departments of Transportation with Topic Modeling.” Presented at the Bridging Transportation Researchers (BTR) Conference (2022).</li>
-  <li>“Analyzing Research Funding Portfolio of TRB’s Cooperative Research Programs and State Departments of Transportation.” Presented at the Transportation Research Board 101st Annual Meeting, Washington, DC (2022).</li>
-  <li>“Data‑Driven Learning of Hurricane Evacuee’s Individual Decision‑Making in a Pandemic.” Presented at the INFORMS Annual Meeting, Anaheim, CA (2021).</li>
-</ul>
 
 <h2>Download</h2>
 
