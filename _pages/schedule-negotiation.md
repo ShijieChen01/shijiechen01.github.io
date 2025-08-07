@@ -21,6 +21,7 @@ I developed a **non‑convex mixed‑integer nonlinear model** that embeds rider
 ### Impact
 
 Field pilots showed a 3.5× return on investment: average solution times fell by 30 %, rider acceptance increased by 20 % and vehicle utilization improved.  The module balances efficiency with rider preferences, demonstrating how sophisticated optimization and heuristics can enhance mobility services.
+
    <p> <img src="{{ site.baseurl }}/assets/img/schedule-negotiation_Delta profit4_ROI_30.png" alt="Schedule Negotiation figure" style="max-width:50%; height:auto;" />    <img src="{{ site.baseurl }}/assets/img/schedule-negotiation_ComputationTime.png" alt="Schedule Negotiation figure" style="max-width:50%; height:auto;" /></p>
 
 
