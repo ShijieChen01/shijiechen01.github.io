@@ -11,4 +11,3 @@ I welcome opportunities to discuss new projects, collaborations or speaking enga
 
 You can also connect with me on professional networks such as LinkedIn.
 
-{% include visitor-map.html %}
