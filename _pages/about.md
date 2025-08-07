@@ -1,10 +1,3 @@
-#---
-#permalink: /
-#title: "Shijie Chen, Ph.D."
-#layout: single
-#author_profile: true
-#---
-
 
 
 ## Profile
@@ -53,8 +46,8 @@
 </span>
 
 
-#<br/>
+//<br/>
 
-# <a href="{{ site.baseurl }}/files/Resume.pdf" class="btn btn--primary">Download Résumé</a>
-# &nbsp;
-# <a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--inverse">Download Full CV</a>
+// <a href="{{ site.baseurl }}/files/Resume.pdf" class="btn btn--primary">Download Résumé</a>
+// &nbsp;
+// <a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--inverse">Download Full CV</a>
