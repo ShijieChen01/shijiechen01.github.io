@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Role:** Platform architect (in collaboration with IT Curves)
+**Role:** Lead algorithm designer and developer (in collaboration with IT Curves)
 
 ### Background
 
