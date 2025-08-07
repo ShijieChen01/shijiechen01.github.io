@@ -7,7 +7,36 @@ author_profile: true
 
 ### Profile
 
-Operations research specialist with 6+ years of experience deploying optimization and machine learning solutions for transit and airline partners. I have a proven record of cutting costs by 15–20 % (over \$4 M in annual savings) and delivering production‑ready Python, SQL and GAMS models. My work bridges academic rigor and industry impact — check out the **[Projects](/projects/)** page for concrete examples of how I translate advanced algorithms into operational savings.
+## Profile
+
+- **Background & Education**  
+  Ph.D. in Industrial Engineering, Florida State University; 6+ years as an Operations Research specialist and Postdoc, deploying advanced analytics and optimization in transportation and logistics.
+
+- **Core Interests**  
+  - ⚙️ **Transportation System Optimization** (scheduling, routing, fleet sizing)  
+  - 📊 **Predictive & Prescriptive Analytics** (demand forecasting, evacuation planning)  
+  - 🤖 **Machine Learning & AI** for real-time decision support  
+  - 🌐 **Multi-Modal Coordination** (paratransit, air cargo, last-mile logistics)
+
+- **Technical Expertise**  
+  - **Languages & Libraries:** Python (NumPy, Pandas, Scikit-learn, Keras, NLTK), SQL, MATLAB, R  
+  - **Optimization & Solvers:** GAMS, CPLEX, Gurobi  
+  - **Data & Geospatial:** PostGIS, ArcGIS/QGIS, GTFS, telematics integration  
+  - **Software Engineering:** API design (Flask, FastAPI), Docker, Git, CI/CD pipelines
+
+- **Hands-On Experience & Impact**  
+  - **\$4 M+ annual savings (15–20% cost reduction):** Developed and deployed a GAMS-based paratransit scheduling engine for a major transit agency.  
+  - **10%+ on-time performance improvement:** Built an airline baggage-flow forecasting model, integrated into the operations dashboard at American Airlines.  
+  - **Scalable production APIs:** Architected real-time dispatch and matching services consumed by 500+ vehicles, integrating GTFS feeds and live GPS data.  
+  - **Disaster & Demand Modeling:** Led hurricane evacuation route optimization and ridership demand forecasting under stochastic conditions.
+
+- **Collaboration & Leadership**  
+  - Cross-functional team lead: Engineers, planners, data scientists, and stakeholders at IT Curves, American Airlines, and public transit agencies.  
+  - Presented findings at INFORMS and TRB; authored 10+ peer-reviewed publications on transit optimization and machine learning.
+
+- **Career Objectives**  
+  Seeking a challenging role—such as **Optimization Engineer**, **Transportation Analytics Consultant**, **Operations Research Lead**, or **Data Science Manager**—where I can leverage my blend of academic rigor and industry impact to drive measurable efficiencies and strategic insights in transportation and logistics.  
+
 
 ### Contact
 
