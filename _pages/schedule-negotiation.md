@@ -5,9 +5,8 @@ permalink: /projects/schedule-negotiation/
 author_profile: true
 ---
 
-<p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation.png" alt="Schedule negotiation illustration" style="max-width:100%; height:auto;" /></p>
 
-**Role:** Principal investigator and lead algorithm designer (IT Curves)
+**Role:** Lead algorithm designer and developer (in collaboration with IT Curves)
 
 ### Background
 
@@ -24,3 +23,5 @@ Field pilots showed a 3.5× return on investment: average solution times fell by
 ### Get the Paper & Code
 
 You can download the full paper [here]({{ site.baseurl }}/files/schedule-negotiation.pdf).  The negotiation algorithm will be released as open‑source software in the future.
+
+<p><img src="{{ site.baseurl }}/assets/img/schedule-negotiation.png" alt="Schedule negotiation illustration" style="max-width:100%; height:auto;" /></p>
