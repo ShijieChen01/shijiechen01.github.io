@@ -23,6 +23,7 @@ Working with IT Curves and transit agencies, I led the design of a **nested‑d
 
 The MetroAccess pilot in Washington, DC demonstrated dramatic improvements: annual operating costs dropped by approximately 15 % (~\$4 million savings), on‑time performance improved and riders reported higher satisfaction.  The algorithm has since been commercialized and is being adopted by other transit agencies, showcasing how advanced optimization can deliver tangible value to industry.
 
+<p><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_routes_before.png" alt="Nested decomposition algorithm illustration" style="max-width:50%; height:auto;" /><img src="{{ site.baseurl }}/assets/img/Efficient_Scheduling_routes_after.png" alt="Nested decomposition algorithm illustration" style="max-width:50%; height:auto;" /></p>
 ### Get the Paper & Code
 
 You can download the full paper [here]({{ site.baseurl }}/files/empowering-metroaccess.pdf).  The source code for the nested‑decomposition engine will be open‑sourced soon.
