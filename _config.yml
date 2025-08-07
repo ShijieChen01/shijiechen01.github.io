@@ -39,7 +39,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=zJ7JKrQAAAAJ&hl=en" # specify your Google Scholar profile URL if available
   inspire-hep      : 
   impactstory      : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4396-1357" # specify ORCID if available
+  orcid            : "0000-0003-4396-1357" # specify ORCID if available
   semantic         : 
 #  pubmed           : "" 
   researchgate     : 
@@ -64,7 +64,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "https://www.linkedin.com/in/shijie-chen-9152811a6/" # specify your LinkedIn username (e.g., shijie-chen) when available
+  linkedin         : "shijie-chen-9152811a6/" # specify your LinkedIn username (e.g., shijie-chen) when available
   mastodon         : 
   medium           : 
   pinterest        : 
