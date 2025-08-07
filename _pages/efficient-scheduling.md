@@ -5,9 +5,9 @@ permalink: /projects/efficient-scheduling/
 author_profile: true
 ---
 
-<p><img src="{{ site.baseurl }}/assets/img/empowering-metroaccess.png" alt="Nested decomposition algorithm illustration" style="max-width:100%; height:auto;" /></p>
 
-**Role:** Principal investigator and lead developer (IT Curves)
+
+**Role:** Lead developer in collaboration with IT Curves
 
 ### Background
 
@@ -24,3 +24,5 @@ The MetroAccess pilot in Washington, DC demonstrated dramatic improvements: ann
 ### Get the Paper & Code
 
 You can download the full paper [here]({{ site.baseurl }}/files/empowering-metroaccess.pdf).  The source code for the nested‑decomposition engine will be open‑sourced soon.
+
+<p><img src="{{ site.baseurl }}/assets/img/empowering-metroaccess.png" alt="Nested decomposition algorithm illustration" style="max-width:100%; height:auto;" /></p>
