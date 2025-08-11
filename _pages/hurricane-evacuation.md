@@ -2,7 +2,7 @@
 layout: single
 title: "Data‑Driven Hurricane Evacuation Decision Modeling"
 permalink: /ml-projects/hurricane-evacuation/
-author_profile: false
+author_profile: true
 ---
 
 **Role:** lead data scientist
