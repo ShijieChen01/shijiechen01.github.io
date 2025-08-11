@@ -5,7 +5,7 @@ permalink: /ml-projects/hurricane-evacuation/
 author_profile: true
 ---
 
-**Role:** Co‑researcher and lead data scientist
+**Role:** lead data scientist
 
 ### Background
 
