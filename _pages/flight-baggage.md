@@ -2,7 +2,7 @@
 layout: single
 title: "Flight‑Level Checked Baggage Prediction"
 permalink: /ml-projects/flight-baggage/
-author_profile: true
+author_profile: false
 ---
 
 **Role:** Lead data scientist
