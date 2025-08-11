@@ -10,24 +10,23 @@
 main:
   # Primary navigation links for the website. Adjust the order to highlight key pages
   # To highlight practical experience for recruiters, place Optimization Projects immediately after the landing page.
-  - title: Home
+  - title: "Home"
     url: /
 
-  - title: Optimization Projects
+  - title: "Optimization Projects"
     url: /projects/
 
-  - title: ML Projects
+  - title: "ML Projects"
     url: /ml-projects/
 
-  - title: Skills
+  - title: "Skills"
     url: /skills/
 
-  - title: Publications
+  - title: "Publications"
     url: /publications/
 
-  - title: CV
+  - title: "CV"
     url: /cv/
 
-  - title: Contact
+  - title: "Contact"
     url: /contact/
-
