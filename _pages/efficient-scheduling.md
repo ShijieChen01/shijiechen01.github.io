@@ -2,7 +2,7 @@
 layout: single
 title: "Efficient Scheduling System for Paratransit"
 permalink: /projects/efficient-scheduling/
-author_profile: false
+author_profile: true
 ---
 
 
