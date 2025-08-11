@@ -2,7 +2,7 @@
 layout: single
 title: "Collaborative Routing for Multiple Paratransit Operators"
 permalink: /projects/collaborative-routing/
-author_profile: true
+author_profile: false
 ---
 
 
