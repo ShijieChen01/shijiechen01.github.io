@@ -2,7 +2,7 @@
 layout: single
 title: "Multi‑Mode Paratransit Optimization"
 permalink: /projects/multi-mode-optimization/
-author_profile: false
+author_profile: true
 ---
 
 
