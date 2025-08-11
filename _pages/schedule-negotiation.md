@@ -2,7 +2,7 @@
 layout: single
 title: "Schedule Negotiation for Paratransit under Uncertainty"
 permalink: /projects/schedule-negotiation/
-author_profile: true
+author_profile: false
 ---
 
 
