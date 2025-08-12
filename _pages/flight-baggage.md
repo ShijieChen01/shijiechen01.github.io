@@ -5,7 +5,7 @@ permalink: /ml-projects/flight-baggage/
 author_profile: true
 ---
 
-**Role:** Lead data scientist
+**Role:** Lead data scientist (in collaboration with a major airline company in the U.S.)
 
 ### Background
 
