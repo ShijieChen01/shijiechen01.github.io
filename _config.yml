@@ -26,7 +26,7 @@ repository               : "ShijieChen01/shijiechen01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cat.png" # keep existing placeholder; replace with your photo filename if added to images/
+  avatar           : "selfie_Shijie.png" # keep existing placeholder; replace with your photo filename if added to images/
   name             : "Shijie Chen, Ph.D."
   pronouns         :  
   bio              : "Applied operations research professional specializing in optimization and machine learning for transportation systems."
