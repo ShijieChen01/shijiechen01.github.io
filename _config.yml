@@ -17,6 +17,7 @@ name                     : "Shijie Chen, Ph.D."
 # Keywords used for SEO. These describe the core competencies and areas of expertise relevant for recruiters and search engines.
 keywords                 : "operations research, optimization, machine learning, transit analytics, paratransit, scheduling, routing, GAMS, Python, SQL"
 url                      : https://shijiechen01.github.io # updated to personal GitHub Pages URL
+baseurl: ""            # user/organization site must be empty
 repository               : "ShijieChen01/shijiechen01.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
