@@ -9,13 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-# title                    : "Shijie Chen, Ph.D."
-#title_separator          : "-"
+title                    : "Shijie Chen | OR & ML"
+title_separator          : "-"
 name                     : "Shijie Chen, Ph.D."
 # description              : &description "Operations research specialist with expertise in optimization and machine learning for transit and airline applications; seeking opportunities to drive impactful data‑driven decisions."
 
 # Keywords used for SEO. These describe the core competencies and areas of expertise relevant for recruiters and search engines.
-keywords                 : "operations research, optimization, machine learning, transit analytics, paratransit, scheduling, routing, GAMS, Python, SQL"
+keywords: "operations research, optimization, machine learning, transportation analytics, transit analytics, airline scheduling, paratransit planning, routing optimization, mathematical modeling, linear programming, integer programming, GAMS, Python, R, SQL, data analysis, predictive modeling, simulation, logistics optimization, supply chain analytics, transportation planning, scheduling algorithms, combinatorial optimization, statistical modeling, decision support systems, data visualization, applied mathematics, OR specialist, optimization engineer, transportation data scientist, transportation, logistic, FSU, Florida state university, researcher"
+
 url                      : https://shijiechen01.github.io # updated to personal GitHub Pages URL
 baseurl: ""            # user/organization site must be empty
 repository               : "ShijieChen01/shijiechen01.github.io"
